@@ -1,5 +1,3 @@
-The worksflow provides code for unaligned protein FASTA, performs an alignment, writes an aligned FASTA, then builds a maximum-likelihood tree and saves PNG/PDF/Newick outputs
-
 Workflow A: Protein phylogeny in R (generic template)
 
 This repository is a reusable template to build a protein phylogenetic tree in R
