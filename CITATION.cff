@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Thayer
+  given-names: Michelle
+title: "protein-phylogeny-in-R"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-01-19
+url: "https://github.com/mlthayer/protein-phylogeny-in-R"
