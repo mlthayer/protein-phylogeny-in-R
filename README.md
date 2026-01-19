@@ -5,8 +5,7 @@ from a pre-aligned amino-acid FASTA.
 
 Input
 Place your aligned FASTA here:
-
-- `Data/aligned_proteins.fa`
+Data/aligned_proteins.fa
 
 All sequences must be the same length (aligned).
 
@@ -24,8 +23,7 @@ Use this workflow if you have **unaligned protein sequences** and want the repos
 
 Input
 Place your unaligned protein FASTA here:
-
-- `Data/proteins.fa`
+Data/proteins.fa
 
 FASTA headers can be anything, but they should be unique and descriptive.
 
