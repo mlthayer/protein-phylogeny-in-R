@@ -17,7 +17,7 @@ source("scripts/01_build_tree_from_aligned_fasta.R")
 
 Workflow B: Start from an unaligned FASTA (alignment + tree)
 
-Use this workflow if you have **unaligned protein sequences** and want the repository to:
+Use this workflow if you have naligned protein sequences and want the repository to:
 1) align them, then
 2) build a phylogenetic tree.
 
